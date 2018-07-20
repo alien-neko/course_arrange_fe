@@ -66,29 +66,29 @@ export default {
       ],
       data6: [
         {
-          name: 'John Brown',
-          age: 18,
-          address: 'New York No. 1 Lake Park'
+          num:"8503",
+          teacher:"饶泓",
+          passwd: '0297'
         },
         {
-          name: 'Jim Green',
-          age: 24,
-          address: 'London No. 1 Lake Park'
+          num:"8503",
+          teacher:"饶泓",
+          passwd: '0297'
         },
         {
-          name: 'Joe Black',
-          age: 30,
-          address: 'Sydney No. 1 Lake Park'
+          num:"8503",
+          teacher:"饶泓",
+          passwd: '0297'
         },
         {
-          name: 'Jon Snow',
-          age: 26,
-          address: 'Ottawa No. 2 Lake Park'
+          num:"8503",
+          teacher:"饶泓",
+          passwd: '0297'
         },
         {
-          name: 'Jon Snow',
-          age: 26,
-          address: 'Ottawa No. 2 Lake Park'
+          num:"8503",
+          teacher:"饶泓",
+          passwd: '0297'
         }
       ]
     }
